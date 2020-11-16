@@ -320,7 +320,7 @@
     "webpack-hot-middleware": "2.25.0",
     "webpack-merge": "5.0.9",
     "webpack-modernizr-loader": "5.0.0",
-    "webpack-subresource-integrity": "1.4.1",
+    "webpack-subresource-integrity": "1.5.1",
     "webpackbar": "4.0.0",
     "whatwg-fetch": "3.2.0",
     "write-file-webpack-plugin": "4.5.1",
